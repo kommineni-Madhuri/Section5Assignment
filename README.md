@@ -1,8 +1,12 @@
 # Section5Assignment
 
-![ecosystem](https://user-images.githubusercontent.com/99352143/155931639-2c9e214c-23bf-4953-b807-eadc0df958a2.png)
-![index-education](https://user-images.githubusercontent.com/99352143/155931647-33ed77c4-b914-437d-acbe-2335ad134e2f.png)
-![landing](https://user-images.githubusercontent.com/99352143/155931665-dd05514f-51b2-4b16-8ea0-3a472b7c6480.png)
-![largest-broker](https://user-images.githubusercontent.com/99352143/155931681-5af66d04-f3c4-4106-a8f8-b8c4a05ee2dc.png)
-![logo_1](https://user-images.githubusercontent.com/99352143/155931698-d3865ad2-b4c3-4a30-aa4b-f81c24b3769a.png)
+![atlassian-logo-gray-small](https://user-images.githubusercontent.com/99352143/155932765-5503fb21-37ba-4ddb-9caa-c679e3c54725.png)
+![automation](https://user-images.githubusercontent.com/99352143/155932769-a632ab57-ba4b-4ca8-9c36-0dcf814ebf9f.png)
+![board](https://user-images.githubusercontent.com/99352143/155932771-de2626e8-a334-411b-a390-1cbf9138da9b.png)
+![card-back](https://user-images.githubusercontent.com/99352143/155932783-1063c8b1-01cd-44e4-963a-286c4895734a.png)
+![compass](https://user-images.githubusercontent.com/99352143/155932810-0a355a91-8c52-469a-b64e
+![ebay](https://user-images.githubusercontent.com/99352143/155932822-7fdc6790-8e66-4bf3-b14c-94a622b27c4b.png)
+-9ab9ae918c6f.png)
+![hero](https://user-images.githubusercontent.com/99352143/155932836-33c1be93-1f2c-4e60-855b-623a2dce4d49.png)
+
 
