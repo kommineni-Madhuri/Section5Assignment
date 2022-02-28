@@ -1,0 +1,484 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+}
+.container{
+    width:1350px;
+    background-color:white;
+    margin:auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header_logo{
+    width:8%;
+    height: auto;
+}
+.header_nav{
+    padding-top: 20px;
+    padding-left:1085px;
+    
+  
+    font-weight:bold;
+    font-size: 18px;
+}
+.header_nav a {
+    text-decoration: none;
+
+}
+.header_btn{
+    padding-top: 20px;
+padding-left:10px;
+padding-right: -40px;
+   
+    font-weight:bold;
+    font-size: 18px;
+}
+.header_btn a{
+    text-decoration: none;
+border:2px snow; 
+color:white; 
+background-color: dodgerblue;
+    padding:5px 6px 5px 6px;
+    border-radius:4px;
+
+}
+.header_btn a:hover{
+    background-color:rgb(11, 168, 241);
+}
+.header_nav a:hover{
+    color:rgb(11, 168, 241);
+}
+.head{
+    width:100%;
+    border-bottom:2px skyblue rgb(204, 202, 202);
+    box-shadow: 2px rgb(202, 192, 192);
+    background-color: white;
+}
+.title{
+
+    background-color: aqua;
+}
+.title_one{
+    width:55%;
+    padding-left: 130px;
+    
+
+}
+.hero{
+    width:35%;
+}
+.hero img{
+    width:90%;
+    padding-left: 10px;
+    
+}
+.title_one h1{
+    font-size: 50px;
+    font-style: bold;
+}
+.title_one p{
+    font-size: large;
+    
+    margin-bottom: 60px;
+}
+.button_1{
+    width:50%;
+    border:1px solid rgb(153, 153, 153);
+padding-left:10px;
+padding-right:250px;
+padding-top: 10px;
+padding-bottom:10px ;
+border-radius:10px;
+color:grey;
+text-decoration: none;
+}
+.button_2{
+    width:40%;
+    border:1px snow black;
+    padding:10px 40px 10px 40px;
+    border-radius:10px;
+    text-decoration: none;
+    color:white;
+    background-color:dodgerblue;
+    margin-left:10px;
+   
+}
+.button_1:hover{
+    color:rgb(0, 0, 0);
+
+}
+.button_2:hover{
+    background-color: rgb(70, 59, 214);
+}
+
+.title_0{
+    width:100%;
+    background-color: rgb(235, 235, 235);
+}
+
+.waytowork_1 img {
+    width:85%;
+    margin:auto;
+    padding-top: 10px;
+}
+.waytowork_1{
+    text-align: center;
+}
+.waytowork_1 h2{
+    font-size:33px;
+    font-weight: 20px bolder;
+}
+
+.waytowork_1 a{
+    text-decoration: none;
+    border:2px solid dodgerblue;
+    color: dodgerblue;
+    padding:10px 20px 10px 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 22px;
+    
+}
+.waytowork_1 p{
+padding-bottom: 10px;
+}
+
+.features{
+    padding-bottom: 50px;
+}
+.feature_1{
+    width:40%;
+    padding-left: 90px;
+    
+}
+.feature_1 h2{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+}
+.feature_1 p{
+    font-size: 22px;
+    text-align: left;
+
+}
+.view{
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-bottom: 50px;
+    
+}
+.view_one{
+    width:45%;
+    padding-left: 130px;
+   background-color: white;
+
+}
+.viewimg{
+    width:35%;
+}
+.viewimg  img{
+    width:100%;
+    padding-left: 10px;
+    
+}
+
+.view_one h2{
+    font-size: 35px;
+    font-style: bold;
+    
+    
+}
+.view_one p{
+    font-size: 20px;
+    padding-right:140px;
+    margin-bottom: 60px;
+    font-weight: lighter;
+}
+.view_one a{
+    text-decoration: none;
+    font-size: 22px;
+    color:black;
+    
+}
+.view_one a:hover{
+    color: rgb(126, 126, 129);
+}
+.card_0{
+    padding-left: 70px;
+    padding-bottom: 50px;
+}
+.card_1{
+    width:48%;
+    margin-left: 20px;
+    margin-right: 40px;
+    
+}
+.card_2{
+    width:45%
+}
+.card_2 img{
+    width:78%;
+    margin-left: 50px;
+}
+.card_1 h2{
+font-size: 30px;
+
+}
+.card_1 p{
+    color: grey;
+    font-size: 22px;
+
+}
+.card_1 a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.card_1 a:hover{
+    color:grey;
+}
+.auto_0{
+padding-left: 80px;
+padding-bottom: 50px;
+}
+.auto_1{
+width:35%;
+}
+.auto_1 img{
+    width:100%;
+
+}
+.auto_2{
+width:50%;
+margin-left: 60px;
+}
+.auto_2 h2{
+    font-size: 24px;
+
+}
+.auto_2 p{
+  font-size:20px;
+  color: grey;   
+}
+.auto_2 a{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+.auto_2 a:hover{
+    color:grey;
+}
+.tool_0{
+    margin-left: 100px;
+    margin-bottom: 60px;
+}
+.tool_1{
+    width:55%;
+}
+
+.tool_2{
+    width:40%;
+}
+.tool_2 img{
+    width:90%;
+    padding-left: 20px;
+}
+.tool_1 h2{
+font-size: 34px;
+font-weight: bolder;
+}
+.tool_1 p{
+    font-size: 24px;
+    color: grey;
+}
+.tool_1 a{
+    text-decoration: none;
+    font-size: 28px;
+    color: black;
+    font-style: bold;
+
+}
+.tool_1 a:hover{
+    color: grey;
+}
+.underline{
+
+ border:1px rgb(7, 7, 7) black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.price{
+    margin-left: 90px;
+    
+    padding-bottom: 40px;
+}
+.price_0{
+    width:45%;
+}
+.price_1{
+    width:45%;
+}
+.price_1 h2{
+    font-size: 30px;
+    font-weight: 300px;  
+}
+.price_1 p{
+    font-size: 20px;
+    font-style: bold;
+}
+.price_btn{
+    border:2px solid dodgerblue;
+    padding:8px 15px 8px 15px;
+    color: dodgerblue;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.price .underline1{
+    border-width: 1px;
+    color: black;
+    margin-top: 45px;
+    margin-right: 50px;
+}
+.names{
+    background-color: rgb(231, 252, 252);
+    padding-bottom: 50px;
+    
+}
+.names_0{
+    margin-left:0px;
+    background-color: rgb(231, 252, 252);
+    padding-left:60px;
+    padding-top: 40px;
+   
+}
+.names_1{
+    width:30%;
+}
+.names_2{
+    width:60%;
+}
+.names_1 img
+{
+    padding-top: 3px;
+width:80%
+}
+.names_2 p{
+    font-size: 22px;
+    font-weight:bolder;
+}
+.names_3 p{
+
+    font-size:22px;
+    text-align: right;
+}
+.names .underline{
+    border-width: 2px;
+    border-color: black;
+}
+.names .buttons{
+    margin:0px;
+}
+.names .buttons a {
+border: 1px solid black;
+padding: 3px; 
+margin-left: 50px;
+
+text-decoration: none;
+background-color: rgb(58, 56, 56);
+color:white;
+}
+
+.work_1{
+    background-color: rgb(53, 53, 187);
+    padding:120px;
+    margin-top:50px;
+    margin-bottom: 60px;
+    margin-left: 145px;
+    border-radius: 5px;
+    
+}
+.work_1 p{
+color: white;
+font-size: 22px;
+padding-bottom: 40px;
+
+}
+.work_1 .button_1{
+    width:50%;
+    border:1px solid rgb(153, 153, 153);
+padding-left:10px;
+padding-right:250px;
+padding-top: 10px;
+padding-bottom:10px ;
+border-radius:10px;
+color:grey;
+text-decoration: none;
+background-color: white;
+}
+.work_1 .button_2{
+    width:40%;
+    border:1px snow black;
+    padding:10px 40px 10px 40px;
+    border-radius:10px;
+    text-decoration: none;
+    color:white;
+    background-color:dodgerblue;
+    margin-left:10px;
+   
+}
+.work_1 .button_1:hover{
+    color:rgb(0, 0, 0);
+
+}
+.work_1 .button_2:hover{
+    background-color: rgb(70, 59, 214);
+}
+.screen_0{
+background-color:beige;
+ font-size: 24px;
+ width:100%;
+ margin-bottom: 50px;
+ 
+}
+.screen_0 p{
+text-align: center;
+font-weight: bold;
+}
+
+.footer_0{
+   
+    margin: auto;
+
+}
+.footer{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.footer a{
+    border:1px solid #000000;
+margin-bottom: 30px;
+border-radius: 5px;
+padding:10px;
+color: grey;
+
+}
+.footer_1{
+    margin-left: 310px;
+}
+.footer_1 a{
+margin-left:10px;
+    color: grey;
+}
+.footer_0 img{
+    width:10%;
+    padding-top:20px;
+    padding-left:610px ;
+    padding-bottom: 20px;
+} 
+.footer_0 p{
+    text-align: center;
+}
